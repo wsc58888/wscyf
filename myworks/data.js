@@ -15,7 +15,12 @@ var myData = {
     },
     "gallery": [
         {
-            "src": "myworks/1.png",
+            "src": "myworks/1.jpg",
+            "w": 1440,
+            "h": 900
+        },
+         {
+            "src": "myworks/6.png",
             "w": 1440,
             "h": 900
         }
